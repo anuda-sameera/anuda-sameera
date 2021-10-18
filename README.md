@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**anuda-sameera/anuda-sameera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anuda-sameera/anuda-sameera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi 👋, I'm Anuda Sameera</h1>
 <h3 align="center">An Aspiring Young Developer with a hunger to achieve new heights daily.</h3>
